@@ -1,0 +1,1 @@
+DevCampus is a smart college website built with React + TypeScript. It includes Chat AI for instant student support and Vapi Voice AI for inquiry calls. Backend uses MongoDB Atlas for secure data storage, enabling smooth, scalable admission and inquiry management.
